@@ -41,7 +41,7 @@ group :development, :test do
   gem 'guard-rspec', require: false
   gem 'spring-commands-rspec'
   gem 'byebug'
-  gem 'web-console', '~>2.0'
+  #gem 'web-console', '~>2.0'
   gem 'spring'
 
   
